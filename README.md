@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Reinald 👋
 
-<!--
-**Reinald-Claudio/Reinald-Claudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Junior Web Developer | Python Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an aspiring IT & web development professional with hands-on experience in **Python, HTML, and CSS**.
+Currently building projects and growing my skills while looking for entry-level roles where I can support users, solve problems, and keep learning.
+
+---
+
+## Projects
+- [Weather App](https://github.com/reinald-claudio/simple-weather-app) - fetches live weather data by city using an open-source API.
+- [File Manager (CLI)](https://github.com/reinald-claudio/file-organizer) - organizes files into tidy folders from the command line.
+- Password Manager *(coming soon)*
+
+---
+
+## Connect with me
+- [Email](mailto:reinaldlimpinclaudio@gmail.com)
+- [LinkedIn](#)
+- [Portfolio Website](https://reinald-claudio.github.io/reinald-portfolio/)
