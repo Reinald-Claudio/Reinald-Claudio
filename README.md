@@ -16,7 +16,7 @@ I enjoy building small, personal projects. Sometimes I will just upload my code 
 
 ---
 
-## Connect with me if u want
+## Connect with me
 - [Email](mailto:reinaldlimpinclaudio@gmail.com)
 - [LinkedIn](#)
 - [Portfolio Website](https://reinald-claudio.github.io/reinald-portfolio/)
