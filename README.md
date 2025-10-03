@@ -3,8 +3,7 @@
 
 **Junior Web Developer | Python Enthusiast**
 
-Just an aspiring IT & web development professional.
-I enjoy building small, personal projects. Sometimes I will just upload my code here for backup purposes. :>
+I enjoy building small, practical projects and experimenting with code in my free time. Most of what you'll find here are tools I've made for personal use. Things like automating tasks, fetching live data, or organizing files. Every repo is part of my learning journey.
 
 ---
 
