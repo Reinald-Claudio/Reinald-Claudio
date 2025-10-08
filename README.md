@@ -8,10 +8,10 @@ I enjoy building small, practical projects and experimenting with code in my fre
 ---
 
 ## Some Projects
-- [Weather App](https://github.com/reinald-claudio/simple-weather-app) - fetches live weather data by city using an open-source API.
-- [File Manager (CLI)](https://github.com/reinald-claudio/file-organizer) - organizes files into tidy folders from the command line.
-- [Gmail to Discord Notifier](https://github.com/Reinald-Claudio/Gmail-to-Discord-Notifier) - A personal Python tool that syncs my unread Gmails into my Discord channel using webhooks.
 - [Password Vault (CLI)](https://github.com/Reinald-Claudio/Password-Vault-CLI-) - A command-line Password Vault built in Python using Fernet encryption and JSON data storage.
+- [Gmail to Discord Notifier](https://github.com/Reinald-Claudio/Gmail-to-Discord-Notifier) - A personal Python tool that syncs my unread Gmails into my Discord channel using webhooks.
+- [File Manager (CLI)](https://github.com/reinald-claudio/file-organizer) - organizes files into tidy folders from the command line.
+- [Weather App](https://github.com/reinald-claudio/simple-weather-app) - fetches live weather data by city using an open-source API.
 
 ---
 
